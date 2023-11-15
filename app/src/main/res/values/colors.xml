@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Couleur verte pour la réponse correcte -->
+    <color name="colorCorrectAnswer">#84d987</color>
+    <!-- Couleur rouge pour la réponse incorrecte -->
+    <color name="colorIncorrectAnswer">#d1435f</color>
+    <!-- Couleur grise par défaut -->
+    <color name="colorDefault">#D3D3D3</color>
+</resources>
